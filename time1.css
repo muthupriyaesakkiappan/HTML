@@ -1,0 +1,41 @@
+td,th,tr{
+    border: 1px solid black;
+   
+}
+table{
+    margin:0 auto;
+    height:400px;
+    width:700px;
+    border-collapse:collapse;
+    
+}
+caption{
+    margin-bottom:30px;
+    margin-top:40px;
+    font-weight:bold;
+    font-size:30px;
+}
+td{
+    text-align:center;
+}
+.data1{
+background-color: rgb(141, 82, 197);
+}
+.data2{
+    background-color: rgb(222, 224, 97);
+}
+.data3{
+    background-color: rgb(147, 204, 71);
+}
+.data4{
+    background-color: rgb(113, 74, 221);
+}
+td:hover{
+    background-color: rgb(50, 94, 68);
+}
+th{
+    background-color: rgb(195, 201, 167);
+}
+td:nth-child(1){
+    background-color:rgb(214, 102, 102);
+}

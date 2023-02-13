@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Great Vibes");
+#tig
+{
+    font-family:Great Vibes;
+
+}
+.print1
+{
+    color:green;
+    font-style:italic;
+    border:1px solid black;
+}
+#tig
+{
+    border:2px solid green;
+    
+}

@@ -1,0 +1,38 @@
+h1{
+    color:blue
+}
+.para1
+{
+    text-align: right;
+}
+.para2
+{
+    text-align: left;
+    line-height: 40%;
+}
+.para3
+{
+    text-align: center;
+}
+a
+{
+    text-decoration: underline;
+}
+h2{
+    text-decoration: overline;
+    text-shadow:5px 6px 3px green;
+}
+h3
+{
+    text-decoration: line-through;
+    text-shadow: 5px 3px red;
+}
+.para4
+{
+text-transform: uppercase;
+
+}
+.para5
+{
+    text-transform: capitalize;
+}

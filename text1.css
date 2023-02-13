@@ -1,0 +1,30 @@
+.para1{
+color:green;
+}
+.para2{
+    text-align:center;
+}
+.para3{
+    text-align:right;
+   text-emphasis:filled double-circle blue;
+}
+.para4{
+    text-align:justify;
+    text-align-last:right;
+    letter-spacing:2px;
+   word-wrap:break-word;
+}
+h2{
+    text-transform:capitalize;
+    line-height: 0.6;
+}
+h3{
+    text-shadow: 3px 2px  4px greenyellow;
+    font-size: 30px;
+}
+h4{
+    font-variant:small-caps;
+}
+.para5{
+    font:italic small-caps bold 20px babylonica;
+}

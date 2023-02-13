@@ -1,0 +1,10 @@
+
+h3{
+    background-color:blueviolet ;
+    font-size:20px;
+    height:200px;
+    width:100%
+}
+body{
+    background-image:url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg") ;
+}

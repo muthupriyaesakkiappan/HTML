@@ -1,0 +1,14 @@
+.big{
+    background-color: aqua;
+    height:90vh;
+    width:90%;
+}
+
+body{
+    background-image:url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg") ;
+}
+@import url("https://fonts.googleapis.com/css?family=Zeyada");
+.print
+{
+    font-family:Zeyada;
+}
