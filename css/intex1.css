@@ -1,0 +1,39 @@
+ol.para1{
+    list-style-type:upper-alpha;
+}
+.para2{
+    list-style-type: upper-alpha;
+    list-style-position: outside;
+}
+.para3{
+    list-style-type: lower-roman;
+}
+.para4{
+    list-style-type: upper-alpha;
+}
+.para3{
+list-style-position:inside;
+}
+.para6{
+    list-style-type:lower-roman;
+    list-style-position:inside;
+}
+.para5{
+    list-style-position:inside;
+    list-style-type:lower-roman;
+}
+p{
+    list-style-type:upper-roman;
+}
+.data1{
+    list-style-type:upper-roman;
+}
+.data{
+    list-style-type:upper-roman;
+}
+.para7{
+    list-style-type:upper-alpha;
+}
+h4{
+    list-style-type:upper-alpha;
+}

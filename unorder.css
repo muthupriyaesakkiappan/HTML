@@ -1,0 +1,11 @@
+ol li{
+list-style-type: disc;
+list-style-image:url("smile.jpg");
+list-style-position:inside;
+}
+h1{
+    color:rgb(41, 4, 4);
+}
+body{
+    background-image:url("https://www.akamai.com/site/im-demo/perceptual-standard.jpg?imbypass=true");
+}
